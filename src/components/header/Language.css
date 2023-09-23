@@ -1,0 +1,15 @@
+.language-text {
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    justify-content: end;
+    cursor:default
+}
+.language-text-button:hover {
+    color:#008DD2;
+    cursor: pointer;
+}
+.language-container {
+    margin-left: 1650px;
+    width: 50px;
+}

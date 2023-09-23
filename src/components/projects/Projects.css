@@ -1,0 +1,6 @@
+.projects-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}

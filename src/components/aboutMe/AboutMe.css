@@ -1,0 +1,29 @@
+.aboutme-container {
+    margin-top: 250px;
+    cursor: default;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+}
+.aboutme-text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.aboutme-header {
+    height: 20px;
+    font-size: 64px;
+    font-weight: 800;
+}
+.aboutme-text {
+    font-size: 32px;
+    font-weight: 700;
+    width: 760px;
+    text-align: center;
+}
+.photoMe {
+    margin-right: 70px;
+    width: 500px;
+    height: 500px;
+}
